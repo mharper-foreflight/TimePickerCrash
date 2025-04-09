@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D8221F982DA6B9F800432029 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D8221F972DA6B9F800432029 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		D81F08AA2D9B1582000F5037 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		D81F08992D9B1581000F5037 /* TimePickerCrash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimePickerCrash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D81F08A92D9B1582000F5037 /* TimePickerCrashTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimePickerCrashTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D81F08B32D9B1582000F5037 /* TimePickerCrashUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimePickerCrashUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8221F972DA6B9F800432029 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		D81F08902D9B1581000F5037 = {
 			isa = PBXGroup;
 			children = (
+				D8221F972DA6B9F800432029 /* README.md */,
 				D81F089B2D9B1581000F5037 /* TimePickerCrash */,
 				D81F08AC2D9B1582000F5037 /* TimePickerCrashTests */,
 				D81F08B62D9B1582000F5037 /* TimePickerCrashUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8221F982DA6B9F800432029 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
