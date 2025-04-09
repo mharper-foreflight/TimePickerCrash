@@ -2,7 +2,7 @@
 
 #  Steps to reproduce
 1. Prepare iPhone for development using Xcode
-1. In Settings -> Date & Time, set Date Format to 24-Hour
+1. In iOS Settings -> General -> Date & Time, set Date Format to 24-Hour
 1. In Xcode, set the run destination to the iPhone
 1. Run the app
 1. Tap on the time portion of the DatePicker
